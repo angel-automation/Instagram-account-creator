@@ -1,7 +1,7 @@
 # 🌟 Instagram Account Creator 🌟
 
 ## **Key Features**
-- **Requests Based**  
+- **Requests Based** 
 - **Automatic E-mail Confirmation** (Manual for SMS)  
 - **Mobile / Web / iOS API**  
 - **Supports Proxies**  
