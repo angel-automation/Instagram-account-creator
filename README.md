@@ -10,7 +10,7 @@
 ---
 
 ## **Contact Us**
-For more information or inquiries, reach out via:  
+For more information or inquiries, reach out via: 
 [Telegram](https://t.me/ANGLE_DEV)  
 
 ---
